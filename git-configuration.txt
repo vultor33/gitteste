@@ -1,4 +1,5 @@
-﻿https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
+﻿primeira linha
+https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
 
 commit é como se fosse uma foto do projeto.
 
@@ -71,5 +72,7 @@ git checkout -b novobranch
 para juntar o branch novo com o master
 git checkout master
 git merge (nome do branch)
+repare que se vc tiver outros branch ele não da merge em tudo,
+ele atualiza só o master mesmo.
 
 
