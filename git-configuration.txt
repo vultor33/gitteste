@@ -58,6 +58,10 @@ tem que tomar cuidado para nao ficar alterando la e ca
 
 caraio sumiu a paradinha aqui.
 
+git checkout -b novobranch
 
+para juntar o branch novo com o master
+git checkout master
+git merge (nome do branch)
 
 
