@@ -1,6 +1,6 @@
 https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
 
-commit é como se fosse uma foto do projeto.
+commit Ã© como se fosse uma foto do projeto.
 
 
 git add (arquivos a serem adicionados)
@@ -34,12 +34,12 @@ git commit -a -m 'tudo goo'
 
 git rm (-r pra pastas) (nome do arquivo)
 apaga o cara e tira do projeto.
-No caso de pasta, se tiver mais alguma coisa lá ele deixa a
+No caso de pasta, se tiver mais alguma coisa lÃ¡ ele deixa a
 pasta viva.
 
-o melhor caminho para renomear arquivos é o:
+o melhor caminho para renomear arquivos Ã© o:
 git mv (lalala) (lelelel)
-do contrário você precisa usar
+do contrÃ¡rio vocÃª precisa usar
 git rm (lalalal) --- tirar o antigo do projeto e adicionar um novo.
 git add (lelelel)
 
@@ -52,7 +52,7 @@ git remote add origin https://github.com/vultor33/gitteste.git
 (uma forma de adicionar a origem)
  push -u origin master (mandando as alteracoes pra la)
 
-
+se eu usar o comando fetch ele importa os dados
 
 
 
