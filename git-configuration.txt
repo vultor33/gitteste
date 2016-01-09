@@ -1,4 +1,4 @@
-﻿primeira linha - mudanca diferente
+﻿primeira linha - mudanca do teste 1
 https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
 
 commit é como se fosse uma foto do projeto.
@@ -75,4 +75,4 @@ git merge (nome do branch)
 repare que se vc tiver outros branch ele não da merge em tudo,
 ele atualiza só o master mesmo.
 
-
+git branch -d (nome do branch para deletar)
