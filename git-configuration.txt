@@ -1,0 +1,56 @@
+https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git
+
+commit é como se fosse uma foto do projeto.
+
+
+git add (arquivos a serem adicionados)
+
+git commit -m 'comentario que precisa'
+git status
+
+git clone (caminho) (nome da pasta)
+
+
+
+quando modifica tem que dar um:
+git add
+
+o arquivo:
+.gitignore
+impede que arquivos de algum tipo sejam adicionados
+mas pra funcionar tem que dar um add e commit nele.
+!lalala deixa passar o lalala
+
+git diff 
+da as mudancas que nao fora selecionadas
+se voce der o add, ja era, nao vai aparecer mais
+
+
+git diff --staged
+com essa opcao voce o que voce nao veria na anterior
+
+para pular o git add podemos usa o comando -a:
+git commit -a -m 'tudo goo'
+
+git rm (-r pra pastas) (nome do arquivo)
+apaga o cara e tira do projeto.
+No caso de pasta, se tiver mais alguma coisa lá ele deixa a
+pasta viva.
+
+o melhor caminho para renomear arquivos é o:
+git mv (lalala) (lelelel)
+do contrário você precisa usar
+git rm (lalalal) --- tirar o antigo do projeto e adicionar um novo.
+git add (lelelel)
+
+git log -p -2
+lista as modficicacoes
+gitk --- interface grafica para modificacoes
+
+
+
+
+
+
+
+
