@@ -62,7 +62,7 @@ e necessario dar um pull primeiro.
 
 git branch testing
 git checkout testing
-
+(dou o commit normal, agora estou trabalhando na ramificacao)
 
 
 
