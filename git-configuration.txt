@@ -47,6 +47,10 @@ git log -p -2
 lista as modficicacoes
 gitk --- interface grafica para modificacoes
 
+ele trabalha so com o repositorio: origin
+git remote add origin https://github.com/vultor33/gitteste.git
+(uma forma de adicionar a origem)
+ push -u origin master (mandando as alteracoes pra la)
 
 
 
