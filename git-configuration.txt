@@ -53,6 +53,7 @@ git remote add origin https://github.com/vultor33/gitteste.git
  push -u origin master (mandando as alteracoes pra la)
 
 se eu usar o comando fetch ele importa os dados
+tem que tomar cuidado para nao ficar alterando la e ca
 
 
 
